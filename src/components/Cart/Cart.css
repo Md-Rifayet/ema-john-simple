@@ -4,3 +4,16 @@
     position: sticky;
     top: 0;
 }
+
+.btn-clear-cart{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #e92d2d;
+    color:rgb(39, 27, 4);
+    border: 2px solid rgb(131, 99, 99);
+    border-radius: 5px;
+    margin-left: 16px;
+    align-items: center;
+
+}

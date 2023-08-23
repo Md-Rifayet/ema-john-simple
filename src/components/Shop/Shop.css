@@ -7,4 +7,22 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
+} 
+    
+.proceed-link{
+    text-decoration: none;
+}
+
+.btn-proced{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(137, 194, 24);
+    color:rgb(39, 27, 4);
+    border: 2px solid rgb(131, 99, 99);
+    border-radius: 5px;
+    margin-left: 16px;
+    align-items: center;
+    margin-top: 10px;
+    
 }
